@@ -1,4 +1,4 @@
-# web_scraper
+# imdb_1000_scrapper
 A python project using BeautifulSoup to scrape details of top 1000 movies from IMDB website. And, extract relevant information for each movie. For each movie following details have been extracted:
   1. Sequence Number
   2. Title
